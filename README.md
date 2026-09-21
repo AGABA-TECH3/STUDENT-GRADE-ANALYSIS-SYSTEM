@@ -48,10 +48,14 @@ Finally, the user can choose whether to use the system again.
 
 Group Members
 
-Agaba Kenneth 25/U/14850/Ps
-Ssenyonjo Xavier 24/U/11333/PS
-Dorcas Asyanut Apio 25/U/15017/Ps
-KEMANZI JULIET 25/U/1246
+Name:Agaba Kenneth 
+Reg No.25/U/14850/Ps
+Name:Ssenyonjo Xavier 
+Reg No.24/U/11333/PS
+Name:Dorcas Asyanut Apio 
+Reg No.25/U/15017/Ps
+Name:KEMANZI JULIET 
+Reg No.25/U/1246
 
 Conclusion
 
